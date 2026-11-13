@@ -1,22 +1,23 @@
 <div align="center">
 
 # Mohit Raj Deo
-### **Principal Systems Architect | Creator of NEPHIS ([nephis.theeducode.com](https://nephis.theeducode.com))**
-Architecting high-throughput execution engines, bare-metal microVM sandboxes, and zero-copy database leasing for automated testing and AI agent workloads.
+### **Principal Systems Architect & Creator of NEPHIS**
+**Low-Latency Runtime Engineering • Kernel Virtualization (Linux KVM / eBPF) • Zero-Copy Database Storage**
 
 <p align="center">
-  <a href="https://mohitrajdeo.in"><img src="https://img.shields.io/badge/🌐_Entity_Home-mohitrajdeo.in-00f0ff?style=for-the-badge&logoColor=black" alt="Entity Home" /></a>
-  <a href="https://nephis.theeducode.com"><img src="https://img.shields.io/badge/⚡_Engine-nephis.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
+  <a href="https://mohitrajdeo.in"><img src="https://img.shields.io/badge/🌐_Official_Portfolio-mohitrajdeo.in-00f0ff?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://nephis.theeducode.com"><img src="https://img.shields.io/badge/⚡_NEPHIS_Engine-nephis.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
   <a href="https://www.linkedin.com/in/mohit-raj-deo/"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Raj_Deo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Contributions-1%2C940%2B-00f0ff?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Patent-Published_%23202511089783-f59e0b?style=flat-square" alt="Patent" />
-  <img src="https://img.shields.io/badge/Benchmark-38.2ms_Code_Execution-10b981?style=flat-square" alt="Benchmark Execution" />
-  <img src="https://img.shields.io/badge/Benchmark-31.2ms_DB_Branching-8b5cf6?style=flat-square" alt="Benchmark DB" />
-  <img src="https://komarev.com/ghpvc/?username=mohitrajdeo12345&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Patent_Published-%23202511089783-f59e0b?style=flat-square&logo=google-scholar&logoColor=white" alt="Patent" />
+  <img src="https://img.shields.io/badge/LPU_B.Tech_CSE-CGPA_9.09-10b981?style=flat-square" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Code_Execution-38.2ms_RAM_Cache-00f0ff?style=flat-square" alt="Execution" />
+  <img src="https://img.shields.io/badge/Database_Branching-31.2ms_Reflink-8b5cf6?style=flat-square" alt="DB Branching" />
+  <img src="https://img.shields.io/badge/MicroVM_Boot-6.2ms_KVM-ec4899?style=flat-square" alt="MicroVM" />
+  <img src="https://komarev.com/ghpvc/?username=mohitrajdeo&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -25,56 +26,72 @@ Architecting high-throughput execution engines, bare-metal microVM sandboxes, an
 
 ## 📌 Executive Summary
 
-I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed systems. At **NEPHIS / Eduniketan Private Limited (TheEduCode)**, I designed and built **NEPHIS**—a high-performance systems fabric that replaces legacy container daemons and slow SQL provisioning with bare-metal microVMs and zero-copy database branching for automated testing and AI agent evaluation.
+I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed database systems. 
 
-- 🌐 **Entity Home & Portfolio:** [mohitrajdeo.in](https://mohitrajdeo.in)
-- ⚡ **Flagship Platform:** [nephis.theeducode.com](https://nephis.theeducode.com)
-- 🏢 **Role:** Principal Systems Architect & Creator of NEPHIS at **Eduniketan Private Limited (TheEduCode)**
-- 🎓 **Education:** B.Tech in Computer Science and Engineering @ **Lovely Professional University** (CGPA: **9.09**)
-- 🏛️ **Published Patent:** Application No: **202511089783** (*AI-Powered Real-Time System Monitoring and Optimization Platform*)
+At **Eduniketan Private Limited (TheEduCode)**, I architected and deployed **[NEPHIS](https://nephis.theeducode.com)**—a high-performance systems fabric that replaces legacy container daemons and slow SQL provisioning with bare-metal microVM sandboxes and zero-copy database branching for automated testing and autonomous AI agent workloads.
 
----
-
-## ⚡ Core Systems Innovations (NEPHIS Architecture)
-
-| Component | Technical Specialization | Verified Performance Metric |
-| :--- | :--- | :--- |
-| **Eschaton** | Universal polyglot execution engine & Judge0 v1.14 drop-in replacement | **38.2ms** warm RAM cache fan-out ($11.5\times$ faster), **403 req/sec** batch throughput |
-| **Thanaton** | Hardware microVM sandboxing hypervisor via Linux KVM & custom guest rootfs | **6.2ms** boot time ($12.9\times$ faster than Docker), 10,000+ sandboxes/host |
-| **Mnemon-DB** | Ephemeral database leasing & zero-copy branching via XFS `reflink` snapshots | **31.2ms** PostgreSQL branch creation ($38.5\times$ faster than `CREATE DATABASE`) |
-| **Aletheia** | In-memory symbolic AST verifier and non-halting analyzer for LLM-generated code | **1.09µs** inspection latency, zero cloud dependency, local MCP integration |
-| **Hyperion** | Autonomous CPU traffic controller & cgroup v2 micro-slicer (`µslice`) | Eliminates **99.4%** of CFS scheduler throttling spikes |
-| **Acheron** | Kernel-bypass networking & live TCP socket migration interceptor | **5 GB/s** wire-speed payload compression, zero-drop connection failover |
-| **Lethe** | Real-time WAL CDC streaming directly into Apache Parquet / Arrow Flight | **276,000,000 rows/second** continuous event streaming |
-| **Kronos** | Deterministic multiverse hypervisor for parallel testing & fault injection | **20.9M pseudo-time ticks/sec**, forks systems into 50 timelines in 2.0ms |
+* 🌐 **Sovereign Portfolio:** [mohitrajdeo.in](https://mohitrajdeo.in)
+* ⚡ **Flagship Systems Fabric:** [nephis.theeducode.com](https://nephis.theeducode.com)
+* 🏢 **Role:** Principal Systems Architect & Creator of NEPHIS at **Eduniketan Private Limited (TheEduCode)**
+* 🎓 **Academics:** B.Tech in Computer Science and Engineering @ **Lovely Professional University** (CGPA: **9.09**)
+* 🏛️ **Published Patent:** Application No: **202511089783** (*AI-Powered Real-Time System Monitoring and Optimization Platform*)
 
 ---
 
-## 🏛️ Published Patent & Research
+## ⚡ The NEPHIS Systems Fabric ([nephis.theeducode.com](https://nephis.theeducode.com))
+
+An engineered suite of bare-metal primitives built to eliminate latency and resource waste in code execution and testing:
+
+```
++-----------------------------------------------------------------------------------+
+|                            NEPHIS HIGH-THROUGHPUT FABRIC                          |
++-----------------------------------------------------------------------------------+
+|  [ Eschaton ]       38.2ms warm RAM execution | 403 req/s Judge0 drop-in          |
+|  [ Thanaton ]       6.2ms Linux KVM microVMs | 10,000+ isolated sandboxes/host    |
+|  [ Mnemon-DB ]      31.2ms zero-copy database branching via XFS CoW reflink        |
+|  [ Aletheia ]       1.09µs in-memory symbolic AST verifier & safety fuel-trap     |
+|  [ Hyperion ]       Autonomous CPU traffic controller & cgroup v2 micro-slicer    |
+|  [ Acheron ]        5 GB/s kernel-bypass networking & live TCP socket migration   |
+|  [ Lethe ]          276M rows/s continuous CDC streaming directly to Parquet     |
+|  [ Kronos ]         Deterministic pseudo-time multiverse simulator (20.9M ticks/s)|
++-----------------------------------------------------------------------------------+
+```
+
+### 🔬 Verified Performance Benchmarks
+
+| Component | Technical Specialization | Verified Metric | vs Legacy Cloud |
+| :--- | :--- | :--- | :--- |
+| **Eschaton** | Universal polyglot execution engine (Judge0 drop-in) | **38.2ms** warm RAM cache | **11.5× faster** than Docker containers |
+| **Thanaton** | Hardware microVM sandboxing hypervisor via Linux KVM | **6.2ms** cold boot | **12.9× faster** than traditional runc |
+| **Mnemon-DB** | Ephemeral DB leasing via XFS `reflink` snapshots | **31.2ms** branch creation | **38.5× faster** than `CREATE DATABASE` |
+| **Aletheia** | In-memory symbolic AST verifier for LLM code | **1.09µs** inspection latency | Zero cloud dependency; local MCP |
+| **Hyperion** | Autonomous CPU traffic controller & cgroup v2 µslicer | **99.4%** CFS throttle drop | Zero p99 jitter under 100% CPU load |
+| **Acheron** | Kernel-bypass networking & live TCP migration | **5 GB/s** wire-speed | Zero-drop connection failover |
+| **Lethe** | WAL CDC streaming directly into Apache Parquet | **276,000,000 rows/sec** | Zero database read load |
+| **Kronos** | Deterministic multiverse simulator for testing | **20.9M ticks/sec** | 50 timelines branched in 2.0ms |
+
+---
+
+## 🏛️ Published Patent & Systems Research
 
 ### 🛡️ [Patent #202511089783] AI-Powered Real-Time System Monitoring & Optimization Platform
-- **Published:** Indian Patent Office (IPO)
-- **Architecture:** Proactive OS-level metric engine collecting CPU, memory, disk I/O, and socket states in real time.
-- **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute waste and memory leak signatures proactively.
-- **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved an estimated **15–20% compute waste** in testing environments.
+* **Jurisdiction:** Indian Patent Office (IPO) — Published
+* **Architecture:** Proactive OS-level metric engine collecting CPU, memory, disk I/O, and socket states in real time.
+* **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute waste and memory leak signatures proactively before failure.
+* **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved **15–20% compute waste** across high-density test nodes.
 
-### 🧬 Multi-Objective Polypharmacy Optimization System (RL in Healthcare)
-- Formulated clinical decision-support logic using **Pareto-based Reinforcement Learning** to balance drug efficacy, adverse reaction (ADR) risk, and patient tolerability.
-- Integrated multi-modal clinical datasets: **MIMIC-III**, **DDInter**, and **SIDER**.
+### 🧬 Multi-Objective Polypharmacy Optimization (RL in Healthcare)
+* Formulated clinical decision-support logic using **Pareto-based Reinforcement Learning** to balance drug efficacy, adverse reaction (ADR) risk, and patient tolerability.
+* Integrated multi-modal clinical datasets: **MIMIC-III**, **DDInter**, and **SIDER**.
 
 ---
 
-## 📊 GitHub Contribution & Engineering Activity
+## 📊 Engineering Activity & Consistency
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHITRAJDEO12345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITRAJDEO12345&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MOHITRAJDEO12345&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=mohitrajdeo&theme=tokyonight&hide_border=true" alt="Mohit's GitHub Streak" width="85%" />
 </p>
 
 </div>
@@ -85,11 +102,11 @@ I am a **Principal Systems Architect** specializing in low-latency runtime engin
 
 <table align="center" width="100%">
   <tr>
-    <td align="left" width="25%"><b>Systems & Kernels</b></td>
+    <td align="left" width="25%"><b>Systems & Virtualization</b></td>
     <td><code>Linux KVM</code>, <code>eBPF / XDP</code>, <code>XFS CoW reflink</code>, <code>cgroups v2</code>, <code>io_uring</code>, <code>POSIX IPC</code>, <code>MicroVMs</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Languages</b></td>
+    <td align="left" width="25%"><b>Core Languages</b></td>
     <td><code>Rust</code>, <code>Go</code>, <code>C++</code>, <code>Python</code>, <code>TypeScript</code>, <code>SQL</code>, <code>Bash</code></td>
   </tr>
   <tr>
@@ -97,8 +114,8 @@ I am a **Principal Systems Architect** specializing in low-latency runtime engin
     <td><code>PostgreSQL (Aurora & Bare-Metal)</code>, <code>pgvector</code>, <code>Redis (Distributed Locks)</code>, <code>Apache Arrow / Parquet</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Infrastructure & Cloud</b></td>
-    <td><code>AWS Bare-Metal (c8i, c8g)</code>, <code>EC2</code>, <code>EKS</code>, <code>Docker</code>, <code>GitHub Actions CI/CD</code>, <code>SSM</code></td>
+    <td align="left" width="25%"><b>Cloud & Infrastructure</b></td>
+    <td><code>AWS Bare-Metal (c8i, c8g)</code>, <code>EC2</code>, <code>EKS</code>, <code>Docker</code>, <code>GitHub Actions CI/CD</code>, <code>AWS SSM</code></td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>AI & LLM Tooling</b></td>
@@ -111,8 +128,8 @@ I am a **Principal Systems Architect** specializing in low-latency runtime engin
 ## 🤝 Connect & Inquiries
 
 <p align="left">
-  <a href="https://mohitrajdeo.in" target="_blank"><img src="https://img.shields.io/badge/Entity_Home-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Entity Home" /></a>
-  <a href="https://nephis.theeducode.com" target="_blank"><img src="https://img.shields.io/badge/CIEL_Engine-3B82F6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
+  <a href="https://mohitrajdeo.in" target="_blank"><img src="https://img.shields.io/badge/Official_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://nephis.theeducode.com" target="_blank"><img src="https://img.shields.io/badge/NEPHIS_Platform-3B82F6?style=for-the-badge&logoColor=white" alt="NEPHIS Platform" /></a>
   <a href="https://www.linkedin.com/in/mohit-raj-deo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/mohit_raj_deo13158920" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
