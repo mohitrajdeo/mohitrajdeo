@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://mohitrajdeo.in"><img src="https://img.shields.io/badge/🌐_Official_Portfolio-mohitrajdeo.in-00f0ff?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
   <a href="https://nephis.theeducode.com"><img src="https://img.shields.io/badge/⚡_NEPHIS_Engine-nephis.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
-  <a href="https://www.linkedin.com/in/mohit-raj-deo/"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Raj_Deo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohitrajdeo/"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Raj_Deo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -130,7 +130,7 @@ An engineered suite of bare-metal primitives built to eliminate latency and reso
 <p align="left">
   <a href="https://mohitrajdeo.in" target="_blank"><img src="https://img.shields.io/badge/Official_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://nephis.theeducode.com" target="_blank"><img src="https://img.shields.io/badge/NEPHIS_Platform-3B82F6?style=for-the-badge&logoColor=white" alt="NEPHIS Platform" /></a>
-  <a href="https://www.linkedin.com/in/mohit-raj-deo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohitrajdeo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/mohit_raj_deo13158920" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
