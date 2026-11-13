@@ -1,20 +1,21 @@
 <div align="center">
 
 # Mohit Raj Deo
-### **Backend & Distributed Systems Engineer | Platform Architect**
-Architecting resilient systems that scale, self-heal, and drive real-world impact.
+### **Principal Systems Architect | Creator of CIEL ([ciel.theeducode.com](https://ciel.theeducode.com))**
+Architecting high-throughput execution engines, bare-metal microVM sandboxes, and zero-copy database leasing for automated testing and AI agent workloads.
 
 <p align="center">
-  <a href="https://mohit-raj-deo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-mohit--raj--deo--portfolio.vercel.app-00f0ff?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://mohitrajdeo.in"><img src="https://img.shields.io/badge/🌐_Entity_Home-mohitrajdeo.in-00f0ff?style=for-the-badge&logoColor=black" alt="Entity Home" /></a>
+  <a href="https://ciel.theeducode.com"><img src="https://img.shields.io/badge/⚡_Engine-ciel.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="CIEL Engine" /></a>
   <a href="https://www.linkedin.com/in/mohit-raj-deo/"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Raj_Deo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohitrajdeo16deoghar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub_Contributions-1%2C940%2B-00f0ff?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Repositories-30%2B_Active-3b82f6?style=flat-square&logo=git&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/badge/LPU-B.Tech_CSE_9.09_CGPA-10b981?style=flat-square" alt="Education" />
   <img src="https://img.shields.io/badge/Patent-Published_%23202511089783-f59e0b?style=flat-square" alt="Patent" />
+  <img src="https://img.shields.io/badge/Benchmark-38.2ms_Code_Execution-10b981?style=flat-square" alt="Benchmark Execution" />
+  <img src="https://img.shields.io/badge/Benchmark-31.2ms_DB_Branching-8b5cf6?style=flat-square" alt="Benchmark DB" />
   <img src="https://komarev.com/ghpvc/?username=mohitrajdeo12345&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -24,12 +25,42 @@ Architecting resilient systems that scale, self-heal, and drive real-world impac
 
 ## 📌 Executive Summary
 
-I am a **Backend and Distributed Systems Engineer** who architects and operates fault-tolerant, high-throughput cloud infrastructure and autonomous computing platforms. Currently engineering production distributed backends at **Eduniketan Private Limited (TheEduCode)**, with published intellectual property at the **Indian Patent Office** for AI-driven system health and anomaly detection.
+I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed systems. At **NEPHIS / Eduniketan Private Limited (TheEduCode)**, I designed and built **CIEL**—a high-performance systems fabric that replaces legacy container daemons and slow SQL provisioning with bare-metal microVMs and zero-copy database branching for automated testing and AI agent evaluation.
 
-- 🌐 **Interactive Portfolio:** [mohit-raj-deo-portfolio.vercel.app](https://mohit-raj-deo-portfolio.vercel.app/)
-- 🏢 **Current Role:** Software Engineer at **Eduniketan Private Limited (TheEduCode)**
+- 🌐 **Entity Home & Portfolio:** [mohitrajdeo.in](https://mohitrajdeo.in)
+- ⚡ **Flagship Platform:** [ciel.theeducode.com](https://ciel.theeducode.com)
+- 🏢 **Role:** Principal Systems Architect & Creator of CIEL at **Eduniketan Private Limited (TheEduCode)**
 - 🎓 **Education:** B.Tech in Computer Science and Engineering @ **Lovely Professional University** (CGPA: **9.09**)
 - 🏛️ **Published Patent:** Application No: **202511089783** (*AI-Powered Real-Time System Monitoring and Optimization Platform*)
+
+---
+
+## ⚡ Core Systems Innovations (CIEL Architecture)
+
+| Component | Technical Specialization | Verified Performance Metric |
+| :--- | :--- | :--- |
+| **Eschaton** | Universal polyglot execution engine & Judge0 v1.14 drop-in replacement | **38.2ms** warm RAM cache fan-out ($11.5\times$ faster), **403 req/sec** batch throughput |
+| **Thanaton** | Hardware microVM sandboxing hypervisor via Linux KVM & custom guest rootfs | **6.2ms** boot time ($12.9\times$ faster than Docker), 10,000+ sandboxes/host |
+| **Mnemon-DB** | Ephemeral database leasing & zero-copy branching via XFS `reflink` snapshots | **31.2ms** PostgreSQL branch creation ($38.5\times$ faster than `CREATE DATABASE`) |
+| **Aletheia** | In-memory symbolic AST verifier and non-halting analyzer for LLM-generated code | **1.09µs** inspection latency, zero cloud dependency, local MCP integration |
+| **Hyperion** | Autonomous CPU traffic controller & cgroup v2 micro-slicer (`µslice`) | Eliminates **99.4%** of CFS scheduler throttling spikes |
+| **Acheron** | Kernel-bypass networking & live TCP socket migration interceptor | **5 GB/s** wire-speed payload compression, zero-drop connection failover |
+| **Lethe** | Real-time WAL CDC streaming directly into Apache Parquet / Arrow Flight | **276,000,000 rows/second** continuous event streaming |
+| **Kronos** | Deterministic multiverse hypervisor for parallel testing & fault injection | **20.9M pseudo-time ticks/sec**, forks systems into 50 timelines in 2.0ms |
+
+---
+
+## 🏛️ Published Patent & Research
+
+### 🛡️ [Patent #202511089783] AI-Powered Real-Time System Monitoring & Optimization Platform
+- **Published:** Indian Patent Office (IPO)
+- **Architecture:** Proactive OS-level metric engine collecting CPU, memory, disk I/O, and socket states in real time.
+- **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute waste and memory leak signatures proactively.
+- **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved an estimated **15–20% compute waste** in testing environments.
+
+### 🧬 Multi-Objective Polypharmacy Optimization System (RL in Healthcare)
+- Formulated clinical decision-support logic using **Pareto-based Reinforcement Learning** to balance drug efficacy, adverse reaction (ADR) risk, and patient tolerability.
+- Integrated multi-modal clinical datasets: **MIMIC-III**, **DDInter**, and **SIDER**.
 
 ---
 
@@ -50,94 +81,43 @@ I am a **Backend and Distributed Systems Engineer** who architects and operates 
 
 ---
 
-## 🏛️ Published Patent & Research
-
-### 🛡️ [Patent #202511089783] AI-Powered Real-Time System Monitoring & Optimization Platform
-- **Published:** Indian Patent Office (IPO)
-- **Architecture:** Proactive OS-level metric engine collecting CPU, memory, disk I/O, and socket states in real time.
-- **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute waste and memory leak signatures proactively.
-- **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved an estimated **15–20% compute waste** in testing environments.
-
-### 🧬 Multi-Objective Polypharmacy Optimization System (RL in Healthcare)
-- Formulated clinical decision-support logic using **Pareto-based Reinforcement Learning** to balance drug efficacy, adverse reaction (ADR) risk, and patient tolerability.
-- Integrated multi-modal clinical datasets: **MIMIC-III**, **DDInter**, and **SIDER**.
-
----
-
-## ⚡ Production Systems Engineering ([theeducode.com](https://www.theeducode.com))
-
-| System Component | Engineering & Architecture | Measurable Impact |
-| :--- | :--- | :--- |
-| **Distributed Code Execution Platform** | Built distributed compilation workers with **Judge0 CE**, **Aurora PostgreSQL**, **Redis queueing**, and **AWS Auto Scaling Groups**. | **~40% latency reduction**, 2x concurrent capacity |
-| **Self-Hosted Backend Storage** | Replaced managed Supabase / AWS S3 with self-hosted REST engine + **Backblaze B2** object storage via secure tunneling. | **~60% cloud storage savings**, full API compatibility |
-| **Zero-Downtime Deployment Automation** | Automated end-to-end CI/CD via **GitHub Actions** + **AWS CodeDeploy** across EC2 ASG instances running **PM2 Cluster mode**. | **100% elimination of manual releases**, zero dropped requests |
-| **EduLive Streaming Infrastructure** | Architecting distributed WebRTC/SFU media clusters on **AWS EKS** (Kubernetes) using **LiveKit** + **BunnyCDN**. | Engineered for **500+ concurrent streams** with auto-scaling K8s pods |
-
----
-
-## 🚀 Key Open-Source & Architectural Repositories
-
-- 📦 **[mohit-raj-deo-portfolio](https://github.com/MOHITRAJDEO12345/mohit-raj-deo-portfolio)** — Next.js 16 interactive 3D portfolio featuring dynamic HUD interfaces, SSR static sitemaps, and Schema.org JSON-LD SEO.
-- ⚙️ **[testing-judge0-vm](https://github.com/MOHITRAJDEO12345/testing-judge0-vm)** — High-performance remote code execution daemon in **Go**, Docker cgroup sandboxing, CPU/memory throttling, and sub-second execution limits.
-- 🔒 **[browser](https://github.com/MOHITRAJDEO12345/browser)** — Native security lockdown client in **Rust** (Tauri + Win32 API) for real-time unauthorized process monitoring and termination during exams.
-- 🌐 **[livekit](https://github.com/MOHITRAJDEO12345/livekit)** — Distributed WebRTC SFU cluster deployments on AWS EKS with Kubernetes pod auto-scaling and BunnyCDN edge caching.
-- 🤖 **[gemini-live-api-examples](https://github.com/MOHITRAJDEO12345/gemini-live-api-examples)** — Real-time multimodal voice and vision streaming agent implementations.
-
----
-
 ## 🛠️ Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
+    <td align="left" width="25%"><b>Systems & Kernels</b></td>
+    <td><code>Linux KVM</code>, <code>eBPF / XDP</code>, <code>XFS CoW reflink</code>, <code>cgroups v2</code>, <code>io_uring</code>, <code>POSIX IPC</code>, <code>MicroVMs</code></td>
+  </tr>
+  <tr>
     <td align="left" width="25%"><b>Languages</b></td>
-    <td><code>Python</code>, <code>C++</code>, <code>Java</code>, <code>JavaScript (ES6+)</code>, <code>TypeScript</code>, <code>Go</code>, <code>Rust</code>, <code>SQL</code>, <code>Bash</code></td>
+    <td><code>Rust</code>, <code>Go</code>, <code>C++</code>, <code>Python</code>, <code>TypeScript</code>, <code>SQL</code>, <code>Bash</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Backend & Systems</b></td>
-    <td><code>FastAPI</code>, <code>Flask</code>, <code>Node.js</code>, <code>Express</code>, <code>RESTful APIs</code>, <code>Microservices</code>, <code>Distributed Systems</code>, <code>System Design</code></td>
+    <td align="left" width="25%"><b>Databases & Storage</b></td>
+    <td><code>PostgreSQL (Aurora & Bare-Metal)</code>, <code>pgvector</code>, <code>Redis (Distributed Locks)</code>, <code>Apache Arrow / Parquet</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Databases & Caching</b></td>
-    <td><code>PostgreSQL (Amazon Aurora)</code>, <code>Redis (Distributed Locks & State)</code>, <code>MySQL</code></td>
+    <td align="left" width="25%"><b>Infrastructure & Cloud</b></td>
+    <td><code>AWS Bare-Metal (c8i, c8g)</code>, <code>EC2</code>, <code>EKS</code>, <code>Docker</code>, <code>GitHub Actions CI/CD</code>, <code>SSM</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Cloud & DevOps</b></td>
-    <td><code>AWS (EC2, S3, RDS, EKS, ASG, ALB, CodeDeploy)</code>, <code>Docker</code>, <code>Kubernetes</code>, <code>CI/CD (GitHub Actions)</code>, <code>PM2</code></td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>Streaming & Storage</b></td>
-    <td><code>LiveKit (WebRTC / SFU)</code>, <code>Backblaze B2</code>, <code>BunnyCDN</code>, <code>BlazingCDN</code></td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>Data & Machine Learning</b></td>
-    <td><code>Scikit-learn</code>, <code>TensorFlow</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Isolation Forest</code>, <code>Reinforcement Learning</code>, <code>Streamlit</code></td>
+    <td align="left" width="25%"><b>AI & LLM Tooling</b></td>
+    <td><code>Model Context Protocol (MCP)</code>, <code>AST Code Verification</code>, <code>Isolation Forest</code>, <code>Reinforcement Learning</code></td>
   </tr>
 </table>
 
 ---
 
-## 📜 Verified Certifications & Honors
-
-- 🏅 **Oracle Cloud Infrastructure 2025 Foundations Associate** — Oracle (Sep 2025)
-- ☁️ **Cloud Computing AWS** — CipherSchool (Jul 2025)
-- 🌐 **Cloud Computing** — NPTEL (Jun 2025)
-- 🏆 **250+ DSA Problems Solved** across LeetCode & GeeksforGeeks
-- 🎖️ **Academic Excellence Award** — Consistent high performance (12th Board: **94.00%**, 10th Board: **95.6%**)
-
----
-
-## 🤝 Connect & Collaborate
+## 🤝 Connect & Inquiries
 
 <p align="left">
-  <a href="https://mohit-raj-deo-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://mohitrajdeo.in" target="_blank"><img src="https://img.shields.io/badge/Entity_Home-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Entity Home" /></a>
+  <a href="https://ciel.theeducode.com" target="_blank"><img src="https://img.shields.io/badge/CIEL_Engine-3B82F6?style=for-the-badge&logoColor=white" alt="CIEL Engine" /></a>
   <a href="https://www.linkedin.com/in/mohit-raj-deo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MOHITRAJDEO12345" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/edgrfrtfqa/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.kaggle.com/mohitrajdeo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mohitrajdeoidn2/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="mailto:mohitrajdeo16deoghar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://dev.to/mohit_raj_deo13158920" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
-  <sub>Designed & engineered with a resilience-first philosophy. Always building. Always optimizing.</sub>
+  <sub>Engineered by Mohit Raj Deo &bull; NEPHIS &bull; Powered by the Aspectual Multiverse</sub>
 </div>
