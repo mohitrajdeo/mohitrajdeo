@@ -1,12 +1,12 @@
 <div align="center">
 
 # Mohit Raj Deo
-### **Principal Systems Architect | Creator of CIEL ([ciel.theeducode.com](https://ciel.theeducode.com))**
+### **Principal Systems Architect | Creator of NEPHIS ([nephis.theeducode.com](https://nephis.theeducode.com))**
 Architecting high-throughput execution engines, bare-metal microVM sandboxes, and zero-copy database leasing for automated testing and AI agent workloads.
 
 <p align="center">
   <a href="https://mohitrajdeo.in"><img src="https://img.shields.io/badge/🌐_Entity_Home-mohitrajdeo.in-00f0ff?style=for-the-badge&logoColor=black" alt="Entity Home" /></a>
-  <a href="https://ciel.theeducode.com"><img src="https://img.shields.io/badge/⚡_Engine-ciel.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="CIEL Engine" /></a>
+  <a href="https://nephis.theeducode.com"><img src="https://img.shields.io/badge/⚡_Engine-nephis.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
   <a href="https://www.linkedin.com/in/mohit-raj-deo/"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Raj_Deo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -25,17 +25,17 @@ Architecting high-throughput execution engines, bare-metal microVM sandboxes, an
 
 ## 📌 Executive Summary
 
-I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed systems. At **NEPHIS / Eduniketan Private Limited (TheEduCode)**, I designed and built **CIEL**—a high-performance systems fabric that replaces legacy container daemons and slow SQL provisioning with bare-metal microVMs and zero-copy database branching for automated testing and AI agent evaluation.
+I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed systems. At **NEPHIS / Eduniketan Private Limited (TheEduCode)**, I designed and built **NEPHIS**—a high-performance systems fabric that replaces legacy container daemons and slow SQL provisioning with bare-metal microVMs and zero-copy database branching for automated testing and AI agent evaluation.
 
 - 🌐 **Entity Home & Portfolio:** [mohitrajdeo.in](https://mohitrajdeo.in)
-- ⚡ **Flagship Platform:** [ciel.theeducode.com](https://ciel.theeducode.com)
-- 🏢 **Role:** Principal Systems Architect & Creator of CIEL at **Eduniketan Private Limited (TheEduCode)**
+- ⚡ **Flagship Platform:** [nephis.theeducode.com](https://nephis.theeducode.com)
+- 🏢 **Role:** Principal Systems Architect & Creator of NEPHIS at **Eduniketan Private Limited (TheEduCode)**
 - 🎓 **Education:** B.Tech in Computer Science and Engineering @ **Lovely Professional University** (CGPA: **9.09**)
 - 🏛️ **Published Patent:** Application No: **202511089783** (*AI-Powered Real-Time System Monitoring and Optimization Platform*)
 
 ---
 
-## ⚡ Core Systems Innovations (CIEL Architecture)
+## ⚡ Core Systems Innovations (NEPHIS Architecture)
 
 | Component | Technical Specialization | Verified Performance Metric |
 | :--- | :--- | :--- |
@@ -112,7 +112,7 @@ I am a **Principal Systems Architect** specializing in low-latency runtime engin
 
 <p align="left">
   <a href="https://mohitrajdeo.in" target="_blank"><img src="https://img.shields.io/badge/Entity_Home-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Entity Home" /></a>
-  <a href="https://ciel.theeducode.com" target="_blank"><img src="https://img.shields.io/badge/CIEL_Engine-3B82F6?style=for-the-badge&logoColor=white" alt="CIEL Engine" /></a>
+  <a href="https://nephis.theeducode.com" target="_blank"><img src="https://img.shields.io/badge/CIEL_Engine-3B82F6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
   <a href="https://www.linkedin.com/in/mohit-raj-deo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/mohit_raj_deo13158920" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
