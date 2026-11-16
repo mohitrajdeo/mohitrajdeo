@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mohitrajdeo.in"><img src="https://img.shields.io/badge/🌐_Official_Portfolio-mohitrajdeo.in-00f0ff?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://nephis.theeducode.com"><img src="https://img.shields.io/badge/⚡_NEPHIS_Engine-nephis.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="NEPHIS Engine" /></a>
+  <a href="https://nephis.theeducode.com"><img src="https://img.shields.io/badge/⚡_NEPHIS_Platform-nephis.theeducode.com-3b82f6?style=for-the-badge&logoColor=white" alt="NEPHIS Platform" /></a>
   <a href="https://www.linkedin.com/in/mohitrajdeo/"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Raj_Deo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohit@mohitrajdeo.in"><img src="https://img.shields.io/badge/Email-mohit@mohitrajdeo.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -14,9 +14,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Patent_Published-%23202511089783-f59e0b?style=flat-square&logo=google-scholar&logoColor=white" alt="Patent" />
   <img src="https://img.shields.io/badge/LPU_B.Tech_CSE-CGPA_9.09-10b981?style=flat-square" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Code_Execution-38.2ms_RAM_Cache-00f0ff?style=flat-square" alt="Execution" />
-  <img src="https://img.shields.io/badge/Database_Branching-31.2ms_Reflink-8b5cf6?style=flat-square" alt="DB Branching" />
-  <img src="https://img.shields.io/badge/MicroVM_Boot-6.2ms_KVM-ec4899?style=flat-square" alt="MicroVM" />
+  <img src="https://img.shields.io/badge/MicroVM_Cold_Boot-%3C6ms_Snapshot-ec4899?style=flat-square" alt="MicroVM" />
+  <img src="https://img.shields.io/badge/Database_Branching-%3C15ms_Reflink-8b5cf6?style=flat-square" alt="DB Branching" />
+  <img src="https://img.shields.io/badge/Code_Execution-38ms_Parallel-00f0ff?style=flat-square" alt="Execution" />
+  <img src="https://img.shields.io/badge/Native_MCP-69_Tools-10b981?style=flat-square" alt="MCP Tools" />
   <img src="https://komarev.com/ghpvc/?username=mohitrajdeo&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -26,49 +27,60 @@
 
 ## 📌 Executive Summary
 
-I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed database systems. 
+I am a **Principal Systems Architect** specializing in low-latency runtime engineering, kernel virtualization, and distributed database storage systems.
 
-At **Eduniketan Private Limited (TheEduCode)**, I architected and deployed **[NEPHIS](https://nephis.theeducode.com)**—a high-performance systems fabric that replaces legacy container daemons and slow SQL provisioning with bare-metal microVM sandboxes and zero-copy database branching for automated testing and autonomous AI agent workloads.
+I architected and deployed **[NEPHIS](https://nephis.theeducode.com)**—the first high-performance cloud compute and zero-copy database platform built natively for **Asia-Pacific & Oceania (APAC)** with global edge interconnects. Nephis delivers sub-millisecond execution, hardware-isolated microVMs, and zero-copy PostgreSQL state branching designed for autonomous AI agents, enterprise CI/CD, and high-concurrency coding platforms.
 
 * 🌐 **Sovereign Portfolio:** [mohitrajdeo.in](https://mohitrajdeo.in)
-* ⚡ **Flagship Systems Fabric:** [nephis.theeducode.com](https://nephis.theeducode.com)
-* 🏢 **Role:** Principal Systems Architect & Creator of NEPHIS at **Eduniketan Private Limited (TheEduCode)**
+* ⚡ **Unified Cloud Platform:** [nephis.theeducode.com](https://nephis.theeducode.com)
+* 🏢 **Role:** Principal Systems Architect & Creator of NEPHIS at **TheEduCode**
 * 🎓 **Academics:** B.Tech in Computer Science and Engineering @ **Lovely Professional University** (CGPA: **9.09**)
 * 🏛️ **Published Patent:** Application No: **202511089783** (*AI-Powered Real-Time System Monitoring and Optimization Platform*)
 
 ---
 
-## ⚡ The NEPHIS Systems Fabric ([nephis.theeducode.com](https://nephis.theeducode.com))
+## ⚡ The 3 Core Pillars of NEPHIS ([nephis.theeducode.com](https://nephis.theeducode.com))
 
-An engineered suite of bare-metal primitives built to eliminate latency and resource waste in code execution and testing:
+NEPHIS consolidates three purpose-built bare-metal engines into a single unified cloud fabric:
 
 ```
-+-----------------------------------------------------------------------------------+
-|                            NEPHIS HIGH-THROUGHPUT FABRIC                          |
-+-----------------------------------------------------------------------------------+
-|  [ Eschaton ]       38.2ms warm RAM execution | 403 req/s Judge0 drop-in          |
-|  [ Thanaton ]       6.2ms Linux KVM microVMs | 10,000+ isolated sandboxes/host    |
-|  [ Mnemon-DB ]      31.2ms zero-copy database branching via XFS CoW reflink        |
-|  [ Aletheia ]       1.09µs in-memory symbolic AST verifier & safety fuel-trap     |
-|  [ Hyperion ]       Autonomous CPU traffic controller & cgroup v2 micro-slicer    |
-|  [ Acheron ]        5 GB/s kernel-bypass networking & live TCP socket migration   |
-|  [ Lethe ]          276M rows/s continuous CDC streaming directly to Parquet     |
-|  [ Kronos ]         Deterministic pseudo-time multiverse simulator (20.9M ticks/s)|
-+-----------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------------+
+|                                    NEPHIS CLOUD PLATFORM (APAC)                                    |
++----------------------------------------------------------------------------------------------------+
+|                                                                                                    |
+|  [ 1. THANATON ]   Sub-6ms On-Demand Linux MicroVMs with Full Root Access                         |
+|                    • <6ms Instant Memory Snapshot Resumes                                          |
+|                    • Scale-to-Zero Stasis ($0 Idle RAM via NVMe memory paging)                     |
+|                    • Zero-Wait Docker Layer Streaming (execute before layers finish pulling)       |
+|                    • Portal: https://thanaton.theeducode.com                                       |
+|                                                                                                    |
+|  [ 2. MNEMON-DB ]  <15ms Zero-Copy PostgreSQL Database Branching                                   |
+|                    • Instant database clones via XFS CoW Reflinks                                  |
+|                    • Microsecond Point-in-Time Recovery (PITR) & Time Travel                       |
+|                    • 10M rows/sec Streaming Change Data Capture (CDC) to Parquet                   |
+|                    • 100% Native Postgres compatibility (Zero vendor lock-in)                      |
+|                    • Portal: https://mnemon.theeducode.com                                         |
+|                                                                                                    |
+|  [ 3. ESCHATON ]   High-Throughput Parallel Code Execution Engine (Judge0 Drop-In)                 |
+|                    • 38ms 50-testcase parallel fanout (vs 4.2s sequential Docker runners)          |
+|                    • Void Speed Testing: Empirical Big-O complexity & auto-extracted ML plots      |
+|                    • Hardware CPU cycle profiling & microsecond early-exit wrong-answer trapping   |
+|                    • 100% drop-in REST compatibility with Judge0 (/submissions, /batch)            |
+|                    • Portal: https://eschaton.theeducode.com                                       |
+|                                                                                                    |
++----------------------------------------------------------------------------------------------------+
+|               Unified with 69 Native Model Context Protocol (MCP) Tools for AI Agents              |
++----------------------------------------------------------------------------------------------------+
 ```
 
 ### 🔬 Verified Performance Benchmarks
 
-| Component | Technical Specialization | Verified Metric | vs Legacy Cloud |
+| Core Engine | Architectural Specialization | Verified Metric | vs Legacy Cloud |
 | :--- | :--- | :--- | :--- |
-| **Eschaton** | Universal polyglot execution engine (Judge0 drop-in) | **38.2ms** warm RAM cache | **11.5× faster** than Docker containers |
-| **Thanaton** | Hardware microVM sandboxing hypervisor via Linux KVM | **6.2ms** cold boot | **12.9× faster** than traditional runc |
-| **Mnemon-DB** | Ephemeral DB leasing via XFS `reflink` snapshots | **31.2ms** branch creation | **38.5× faster** than `CREATE DATABASE` |
-| **Aletheia** | In-memory symbolic AST verifier for LLM code | **1.09µs** inspection latency | Zero cloud dependency; local MCP |
-| **Hyperion** | Autonomous CPU traffic controller & cgroup v2 µslicer | **99.4%** CFS throttle drop | Zero p99 jitter under 100% CPU load |
-| **Acheron** | Kernel-bypass networking & live TCP migration | **5 GB/s** wire-speed | Zero-drop connection failover |
-| **Lethe** | WAL CDC streaming directly into Apache Parquet | **276,000,000 rows/sec** | Zero database read load |
-| **Kronos** | Deterministic multiverse simulator for testing | **20.9M ticks/sec** | 50 timelines branched in 2.0ms |
+| **Thanaton** | Hardware-isolated Linux MicroVMs with full root | **< 6ms** snapshot boot | **12.9× faster** than runc / standard Docker |
+| **Mnemon-DB** | Ephemeral PostgreSQL branches via XFS CoW `reflink` | **< 15ms** clone creation | **38.5× faster** than AWS RDS `CREATE DATABASE` |
+| **Eschaton** | High-throughput parallel testcase evaluation | **38.2ms** 50-case batch | **70× faster** than sequential container runners |
+| **Nephis MCP** | Native Model Context Protocol agent tools | **69 tools** integrated | Sub-millisecond tool-calling execution |
 
 ---
 
@@ -77,7 +89,7 @@ An engineered suite of bare-metal primitives built to eliminate latency and reso
 ### 🛡️ [Patent #202511089783] AI-Powered Real-Time System Monitoring & Optimization Platform
 * **Jurisdiction:** Indian Patent Office (IPO) — Published
 * **Architecture:** Proactive OS-level metric engine collecting CPU, memory, disk I/O, and socket states in real time.
-* **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute waste and memory leak signatures proactively before failure.
+* **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute bottlenecks and memory leak signatures proactively before failure.
 * **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved **15–20% compute waste** across high-density test nodes.
 
 ### 🧬 Multi-Objective Polypharmacy Optimization (RL in Healthcare)
@@ -86,40 +98,28 @@ An engineered suite of bare-metal primitives built to eliminate latency and reso
 
 ---
 
-## 📊 Engineering Activity & Consistency
-
-<div align="center">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohitrajdeo&theme=tokyonight&hide_border=true" alt="Mohit's GitHub Streak" width="85%" />
-</p>
-
-</div>
-
----
-
 ## 🛠️ Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
-    <td align="left" width="25%"><b>Systems & Virtualization</b></td>
-    <td><code>Linux KVM</code>, <code>eBPF / XDP</code>, <code>XFS CoW reflink</code>, <code>cgroups v2</code>, <code>io_uring</code>, <code>POSIX IPC</code>, <code>MicroVMs</code></td>
+    <td align="left" width="25%"><b>Virtualization & Runtimes</b></td>
+    <td><code>Linux KVM</code>, <code>Firecracker</code>, <code>Docker Layer Streaming</code>, <code>eBPF / XDP</code>, <code>cgroups v2</code>, <code>io_uring</code></td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>Core Languages</b></td>
     <td><code>Rust</code>, <code>Go</code>, <code>C++</code>, <code>Python</code>, <code>TypeScript</code>, <code>SQL</code>, <code>Bash</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Databases & Storage</b></td>
-    <td><code>PostgreSQL (Aurora & Bare-Metal)</code>, <code>pgvector</code>, <code>Redis (Distributed Locks)</code>, <code>Apache Arrow / Parquet</code></td>
+    <td align="left" width="25%"><b>Storage & Databases</b></td>
+    <td><code>PostgreSQL 16</code>, <code>XFS CoW Reflink</code>, <code>pgvector</code>, <code>Redis</code>, <code>Apache Parquet / Arrow</code></td>
   </tr>
   <tr>
     <td align="left" width="25%"><b>Cloud & Infrastructure</b></td>
-    <td><code>AWS Bare-Metal (c8i, c8g)</code>, <code>EC2</code>, <code>EKS</code>, <code>Docker</code>, <code>GitHub Actions CI/CD</code>, <code>AWS SSM</code></td>
+    <td><code>AWS ap-south-1 (c8i, c8g bare metal)</code>, <code>EC2 Auto Scaling</code>, <code>Docker Hub (2,470+ pulls)</code>, <code>GitHub Actions CI/CD</code></td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>AI & LLM Tooling</b></td>
-    <td><code>Model Context Protocol (MCP)</code>, <code>AST Code Verification</code>, <code>Isolation Forest</code>, <code>Reinforcement Learning</code></td>
+    <td align="left" width="25%"><b>AI & Agent Tooling</b></td>
+    <td><code>Model Context Protocol (MCP)</code>, <code>Void Speed Testing</code>, <code>Automated Complexity Profiling</code>, <code>Isolation Forest</code></td>
   </tr>
 </table>
 
@@ -136,5 +136,5 @@ An engineered suite of bare-metal primitives built to eliminate latency and reso
 </p>
 
 <div align="center">
-  <sub>Engineered by Mohit Raj Deo &bull; NEPHIS &bull; Powered by the Aspectual Multiverse</sub>
+  <sub>Engineered by Mohit Raj Deo &bull; Creator of NEPHIS &bull; APAC Cloud Infrastructure</sub>
 </div>
