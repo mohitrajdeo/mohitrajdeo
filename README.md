@@ -92,9 +92,11 @@ NEPHIS consolidates three purpose-built bare-metal engines into a single unified
 * **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute bottlenecks and memory leak signatures proactively before failure.
 * **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved **15–20% compute waste** across high-density test nodes.
 
-### 🧬 Multi-Objective Polypharmacy Optimization (RL in Healthcare)
-* Formulated clinical decision-support logic using **Pareto-based Reinforcement Learning** to balance drug efficacy, adverse reaction (ADR) risk, and patient tolerability.
-* Integrated multi-modal clinical datasets: **MIMIC-III**, **DDInter**, and **SIDER**.
+### 🚀 [Launchpad] Autonomous Deployment Platform & Self-Healing CI/CD Engine
+* **Repository:** [mohitrajdeo/acko-mohit-devops](https://github.com/mohitrajdeo/acko-mohit-devops) (40+ Commits)
+* **Zero-Downtime Rollbacks:** Sub-4s automated rollback on container crash or failed `/health` probe checkpoints (`startup_unreachable`, `never_started`, `never_healthy`).
+* **Multi-Team Isolation:** Isolated team workspaces (`team1`, `team2`) with concurrency deployment queue locks and atomic per-release environment variable snapshotting.
+* **Live DORA Metrics:** Real-time delivery telemetry tracking Mean Time to Recovery (MTTR: 0.4 min), Lead Time for Changes (0.5 min), and automated deployment frequency.
 
 ---
 
