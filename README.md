@@ -92,11 +92,11 @@ NEPHIS consolidates three purpose-built bare-metal engines into a single unified
 * **ML Engine:** Implemented **Isolation Forest** and **KNN** models to detect compute bottlenecks and memory leak signatures proactively before failure.
 * **Impact:** Achieved **~90% reduction** in manual metric monitoring overhead and saved **15–20% compute waste** across high-density test nodes.
 
-### 🚀 [Launchpad] Autonomous Deployment Platform & Self-Healing CI/CD Engine
-* **Repository:** [mohitrajdeo/acko-mohit-devops](https://github.com/mohitrajdeo/acko-mohit-devops) (40+ Commits)
-* **Zero-Downtime Rollbacks:** Sub-4s automated rollback on container crash or failed `/health` probe checkpoints (`startup_unreachable`, `never_started`, `never_healthy`).
-* **Multi-Team Isolation:** Isolated team workspaces (`team1`, `team2`) with concurrency deployment queue locks and atomic per-release environment variable snapshotting.
-* **Live DORA Metrics:** Real-time delivery telemetry tracking Mean Time to Recovery (MTTR: 0.4 min), Lead Time for Changes (0.5 min), and automated deployment frequency.
+### 🚀 [Judge0 Production AWS & JDBC Architecture] High-Density Cloud Execution
+* **Repository:** [mohitrajdeo/judge0-production-aws](https://github.com/mohitrajdeo/judge0-production-aws) (Active Production Infrastructure • 2,470+ Docker Pulls)
+* **AWS Production Cluster:** Deployed high-throughput code execution infrastructure on AWS (ap-south-1) with auto-scaling workers, Redis queue pipelining, and PostgreSQL state management.
+* **Database & JDBC Isolation:** Engineered custom multi-language runtime layers (`mrmohitrajdeo/judge0-jdbc`) supporting full JDBC drivers, isolated MySQL/PostgreSQL sandboxes, and hardware-enforced cgroups v2 limits.
+* **Bridge to Eschaton:** Serves as the enterprise production benchmark and drop-in specification powering Eschaton's 38.2ms parallel microkernel execution engine.
 
 ---
 
